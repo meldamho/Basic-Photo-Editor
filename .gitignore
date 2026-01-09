@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# Environments
+.venv/
+.env/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Qt/PySide generated
+*.qmlc
+*.jsc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Tools
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Matplotlib cache
+.matplotlib/
+
+# Local config
+*.local
